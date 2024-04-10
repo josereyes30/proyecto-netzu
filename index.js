@@ -6,7 +6,7 @@
 <body>
 <h1>JavaScript HTML Events</h1>
 <h2>The onclick Attribute</h2>
-
+<!--No estan funcionando los comentarios-->
 <button onclick="document.getElementById('demo').innerHTML=Date()">The time is?</button>
 
 <p id="demo"></p>
